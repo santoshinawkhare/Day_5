@@ -1,0 +1,14 @@
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\bin\Debug\netcoreapp3.1\Basic_Problem.exe
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\bin\Debug\netcoreapp3.1\Basic_Problem.deps.json
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\bin\Debug\netcoreapp3.1\Basic_Problem.runtimeconfig.json
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\bin\Debug\netcoreapp3.1\Basic_Problem.runtimeconfig.dev.json
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\bin\Debug\netcoreapp3.1\Basic_Problem.dll
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\bin\Debug\netcoreapp3.1\Basic_Problem.pdb
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\obj\Debug\netcoreapp3.1\Basic_Problem.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\obj\Debug\netcoreapp3.1\Basic_Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\obj\Debug\netcoreapp3.1\Basic_Problem.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\obj\Debug\netcoreapp3.1\Basic_Problem.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\obj\Debug\netcoreapp3.1\Basic_Problem.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\obj\Debug\netcoreapp3.1\Basic_Problem.dll
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\obj\Debug\netcoreapp3.1\Basic_Problem.pdb
+C:\Users\MY PC\Desktop\BridgeLabz\Basic_Problem\obj\Debug\netcoreapp3.1\Basic_Problem.genruntimeconfig.cache
